@@ -1,3 +1,3 @@
 # customer-churn-analysis
-Data Analytics portfolio
+Customer subscription churn analysis using SQL, Excel, and exploratory data analysis
 **First Project**
