@@ -22,7 +22,7 @@ Initial analysis suggested a random churn distribution of ~57%. By transitioning
 
 ## Data Visualization (Power BI)
 I developed an interactive dashboard using DAX to visualize the **"Churn Gap,"** proving that billing friction remains the #1 risk factor regardless of user activity. The final visual highlights a **21% spike in churn probability** immediately following a payment failure, providing stakeholders with a clear, actionable trigger for intervention.
-> **Note:**
+![Churn Analysis Dashboard](https://github.com/adamjbe/Adams_portfolio/blob/main/Screenshot%202026-02-09%20113248.png?raw=true)
 
 ---
 
