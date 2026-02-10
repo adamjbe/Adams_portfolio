@@ -20,6 +20,12 @@ Initial analysis suggested a random churn distribution of ~57%. By transitioning
 
 ---
 
+## Data Visualization (Power BI)
+I developed an interactive dashboard using DAX to visualize the **"Churn Gap,"** proving that billing friction remains the #1 risk factor regardless of user activity. The final visual highlights a **21% spike in churn probability** immediately following a payment failure, providing stakeholders with a clear, actionable trigger for intervention.
+> **Note:**
+
+---
+
 ## Recommendations
 1. **Optimize Dunning:** Implement automated retries and grace periods for failed payments to save the 60% at-risk group.
 2. **Standard Plan Benchmarking:** Investigate why the Standard Plan retains users better than Premium/Basic tiers.
